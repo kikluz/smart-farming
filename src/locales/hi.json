@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "क्लाइमेटस्मार्ट एग्री",
+    "footer": "© {{year}} जलवायु-स्मार्ट कृषि - हाइपरलोकल मौसम सलाह"
+  },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "weather": "मौसम",
+    "crops": "फसलें",
+    "advisories": "सलाह",
+    "pestDetection": "कीट पहचान",
+    "community": "समुदाय",
+    "settings": "सेटिंग्स"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "welcome": "वापसी पर स्वागत है!",
+    "recentAdvisories": "हालिया सलाह",
+    "noAdvisories": "कोई सलाह उपलब्ध नहीं",
+    "activeCrops": "सक्रिय फसलें",
+    "todaysRainfall": "आज की बारिश",
+    "weatherTrends": "मौसम के रुझान",
+    "home": "घर"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "language": "भाषा",
+    "theme": "थीम"
+  }
+}

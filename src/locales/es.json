@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "AgriClima Inteligente",
+    "footer": "© {{year}} Agricultura Climáticamente Inteligente - Avisos Meteorológicos Hiperlocales"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "weather": "Clima",
+    "crops": "Cultivos",
+    "advisories": "Avisos",
+    "pestDetection": "Detección de Plagas",
+    "community": "Comunidad",
+    "settings": "Ajustes"
+  },
+  "dashboard": {
+    "title": "Panel de Control",
+    "welcome": "¡Bienvenido de nuevo!",
+    "recentAdvisories": "Avisos Recientes",
+    "noAdvisories": "No hay avisos disponibles",
+    "activeCrops": "Cultivos Activos",
+    "todaysRainfall": "Lluvia de Hoy",
+    "weatherTrends": "Tendencias del Clima",
+    "home": "Inicio"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language": "Idioma",
+    "theme": "Tema"
+  }
+}

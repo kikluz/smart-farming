@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "ClimateSmart Agri",
+    "footer": "© {{year}} ClimateSmart Agriculture - Hyperlocal Weather Advisories"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "weather": "Weather",
+    "crops": "Crops",
+    "advisories": "Advisories",
+    "pestDetection": "Pest Detection",
+    "community": "Community",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back!",
+    "recentAdvisories": "Recent Advisories",
+    "noAdvisories": "No advisories available",
+    "activeCrops": "Active Crops",
+    "todaysRainfall": "Today's Rainfall",
+    "weatherTrends": "Weather Trends",
+    "home": "Home"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme"
+  }
+}
